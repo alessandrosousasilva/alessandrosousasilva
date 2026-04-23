@@ -1,65 +1,54 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=220&section=header&text=Alessandro%20Sousa&fontSize=75&animation=fadeIn&fontAlignY=35" />
 
+  <h3>✨ Desenvolvedor Frontend | Graduando em Sistemas de Informação</h3>
 
-<h1 align="center">👨‍💻 Bem-vindo ao meu GitHub!</h1>
-
-###
-🎓 Estudante de **Sistemas de Informação**.   
-🚀 Buscando evoluir como Desenvolvedor, focado em **Frontend,** e boas práticas.  
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/alessandrosousasilva" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/_alessandro.ssousa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/3y8wB3mh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="38" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://t.me/alessandrosousasilvaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="38" height="25" alt="telegram logo"  />
-  </a>
-  <a href="mailto:ale.dsistemas@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.youtube.com/@alessandrosousasilvaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="38" height="25" alt="youtube logo"  />
-  </a>
+  <div style="display: inline-block;">
+    <a href="https://www.linkedin.com/in/alessandrosousasilva" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:ale.dsistemas@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://t.me/alessandrosousasilvaa" target="_blank">
+      <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/_alessandro.ssousa" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </div>
 </div>
 
 ---
 
+### 📖 Sobre Mim
+Sou um desenvolvedor focado em **Frontend** e estudante de **Sistemas de Informação**. Atualmente, aplico meu conhecimento em projetos de geolocalização corporativa e plataformas escaláveis.
+
+---
+
+### 🛠️ Tech Stack Profissional
+
+| Categoria | Ferramentas e Linguagens |
+| :--- | :--- |
+| **Linguagens** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+
+
+---
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alessandrosousasilva&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandrosousasilva&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrosousasilva&layout=compact&langs_count=7&theme=dracula" height="180em" />
 </div>
 
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandrosousasilva&theme=dracula" height="180em" />
 </div>
 
-###
-<div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572">
-    <img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" style="max-width: 100%;"> </a>
+---
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" />
 </div>
